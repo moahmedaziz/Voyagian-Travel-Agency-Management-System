@@ -1,0 +1,188 @@
+10000 Group Assets
+11000 Sub Group Fixed Assets
+11100 Category Intangible Assets
+11200 Category Land & Buildings
+11300 Category Motor Vehicles
+11400 Category Furniture & Office Equipment
+12000 Sub Group Current Assets
+12100 Category Cash & Banks
+12200 Category Accounts Receivable
+12201 Ledger Account TravelAgents Clients
+12202 Ledger Account Corporate Clients
+12203 Ledger Account Government Clients
+12204 Ledger Account TourOperator Clients
+12205 Ledger Account Educational Clients
+12206 Ledger Account NGOsClients
+12207 Ledger Account Diplomatic Delegations Clients
+12300 Category Inventories
+12400 Category Advances & Prepayments
+12500 Category Deposits & Guarantees
+12900 Category Other Receivables
+20000 Group Liabilities
+21000 Sub Group Long Term Liabilities
+21100 Category Bank Borrowing Long Term
+22000 Sub Group Short Term Liabilities
+22100 Category Bank Borrowing Short Term
+22200 Category Trade Accounts Payable
+22201 Ledger Account Regular Airlines Suppliers
+22202 Ledger Account Low Cost Carriers Suppliers
+22203 Ledger Account Regional Airlines Suppliers
+22204 Ledger Account CargoAirlines Suppliers
+22205 Ledger Account Charter Airlines Suppliers
+22206 Ledger Account Ferrylines Suppliers
+22207 Ledger Account UmrahSuppliers
+22208 Ledger Account HotelsSuppliers
+22209 Ledger Account VisaService Suppliers
+22210 Ledger Account OtherTrade Suppliers
+22300 Category Taxes & Statutory Liabilities
+22400 Category Accruals
+22900 Category Other Payables
+30000 Group Equity
+31000 Sub Group Equity
+31100 Category Equity
+31101 Ledger Account ShareCapital
+31102 Ledger Account Retained Earnings
+31103 Ledger Account General Reserve
+40000 Group Revenue
+41000 Sub Group Airlines Revenue
+41100 Category Regular Airlines Revenue
+41101 Ledger Account Regular Airlines Standard Commission
+41102 Ledger Account Regular Airlines Service Fee Markups Discounts
+41103 Ledger Account Regular Airlines Surcharges Revenue
+41200 Category Low Cost Carriers Revenue
+41201 Ledger Account Low Cost Carriers Standard Commission
+41202 Ledger Account Low Cost Carriers Service Fee Markups Discounts
+41203 Ledger Account Low Cost Carriers Surcharges Revenue
+41300 Category Regional Airlines Revenue
+41301 Ledger Account Regional Airlines Standard Commission
+41302 Ledger Account Regional Airlines Service Fee Markups Discounts
+41303 Ledger Account Regional Airlines Surcharges Revenue
+41400 Category Cargo Airlines Revenue
+41401 Ledger Account CargoAirlines Standard Commission
+41402 Ledger Account CargoAirlines Service Fee Markups Discounts
+41403 Ledger Account CargoAirlines Surcharges Revenue
+41500 Category Charter Airlines Revenue
+41501 Ledger Account Charter Airlines Standard Commission
+41502 Ledger Account Charter Airlines Service Fee Markups Discounts
+41503 Ledger Account Charter Airlines Surcharges Revenue
+42000 Sub Group Ferry Revenue
+42100 Category RoRo Ferylines Revenue
+42101 Ledger Account RoRoFerylines Markup Discount
+42102 Ledger Account RoRoFerylines Standard Commission
+42103 Ledger Account RoRoFerylines Promotion
+42104 Ledger Account RoRoFerylines Surcharge
+43000 Sub Group Travel Services Revenue
+43100 Category Umrah Revenue
+43200 Category Hotels Revenue
+43300 Category Other Services Revenue
+43400 Category Other Miscellaneous Revenue
+50000 Group Cost of Revenue
+51000 Sub Group Cost of Revenue
+51100 Category Airline Ticket Cost of Revenue
+51101 Ledger Account Airline Reissue Cost
+51102 Ledger Account Airline Refund Cost
+51103 Ledger Account Airline ADM (Agency Debit Memo)
+51104 Ledger Account Airline Booking Fees
+51105 Ledger Account GDS Booking Fees
+51200 Category Ferry Ticket Cost of Revenue
+51201 Ledger Account FerryTicket Cost
+51202 Ledger Account FerryReissue Cost
+51203 Ledger Account FerryRefund Cost
+51204 Ledger Account FerryADM (Agency Debit Memo)
+51205 Ledger Account FerryBooking Fees
+51300 Category Umrah Service Cost of Revenue
+51400 Category Hotels Service Cost of Revenue
+51500 Category Other Service Cost
+60000 Group Operating Expenses
+61000 Sub Group Personnel Expenses
+61100 Category Employee Compensation
+61200 Category Employee Benefits
+61300 Category Recruitment & Development
+62000 Sub Group Occupancy Expenses
+62100 Category Premises Costs
+62200 Category Facility Services
+62300 Category Utilities
+63000 Sub Group Office Administration
+63100 Category Office Supplies
+63200 Category Communication
+63300 Category Administrative Support
+64000 Sub Group Information Technology
+64100 Category Software & Licenses
+64200 Category Infrastructure
+64300 Category IT Services
+65000 Sub Group Sales & Marketing
+65100 Category Advertising
+65200 Category Promotions
+65300 Category Customer Relations
+65400 Category Business Development
+66000 Sub Group Travel Operations
+66100 Category Reservation Systems
+66200 Category Payment Processing
+66300 Category Operational Services
+67000 Sub Group Transportation
+67100 Category Vehicle Operations
+67200 Category Vehicle Maintenance
+67300 Category Travel & Transportation
+68000 Sub Group Financial Charges
+68100 Category Banking Costs
+68200 Category Merchant Costs
+68300 Category Financial Adjustments
+69000 Sub Group Depreciation & Amortization
+69100 Category Depreciation
+69200 Category Amortization
+69300 Category Asset Adjustments
+70000 Group Administrative Expenses
+71000 Sub Group Professional Services
+71100 Category Legal Services
+71200 Category Financial Services
+71300 Category Consulting Services
+72000 Sub Group General Administration
+72100 Category General Expenses
+72200 Category Subscriptions & Memberships
+72300 Category Donations & Contributions
+73000 Sub Group Corporate Administration
+73100 Category Corporate Governance
+73200 Category Regulatory Affairs
+73300 Category Corporate Memberships
+74000 Sub Group Insurance
+74100 Category Asset Insurance
+74200 Category Liability Insurance
+74300 Category Business Insurance
+75000 Sub Group Taxes & Government Fees
+75100 Category Regulatory Fees
+75200 Category Municipal Charges
+75300 Category Non-Recoverable Taxes
+76000 Sub Group Corporate Communications
+76100 Category Corporate Events
+76200 Category Sponsorships
+76300 Category Public Relations
+77000 Sub Group Provisions
+77100 Category Credit Risk Provisions
+77200 Category Employee Provisions
+77300 Category Legal Provisions
+80000 Group Other Income & Expenses
+81000 Sub Group Other Income
+81100 Category Financial Income
+81200 Category Incentives & Rebates
+81300 Category Miscellaneous Income
+82000 Sub Group Foreign Exchange
+82100 Category Exchange Gains
+82200 Category Exchange Losses
+82300 Category Currency Adjustments
+83000 Sub Group Asset Activities
+83100 Category Disposal Gains
+83200 Category Disposal Losses
+83300 Category Revaluations
+83400 Category Recoveries & Write-offs
+84000 Sub Group Investments
+84100 Category Investment Income
+84200 Category Dividend Income
+84300 Category Investment Losses
+85000 Sub Group Miscellaneous
+85100 Category Miscellaneous Income
+85200 Category Miscellaneous Expenses
+85300 Category Rounding Adjustments
+86000 Sub Group Year-End Adjustments
+86100 Category Closing Entries
+86200 Category Opening Entries
+86300 Category Accounting Adjustments
